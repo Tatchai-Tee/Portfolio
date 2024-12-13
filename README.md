@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Projects
-### [AskJarn](https://github.com/organization/project-repo)
+### [AskJarn]([https://github.com/organization/project-repo](https://github.com/KanakornMek/ajarn-chat-backend/blob/main/src/controllers/courseController.ts))
 A communication platform where students can send questions directly to teachers, with an organized system to ensure every questions is tracked and answered:
 - **Role:** Backend Developer
 - **Highlights:** Implemented RESTful API controllers in Express.js using PrismaORM to manage courses, including input validation and error handling.
